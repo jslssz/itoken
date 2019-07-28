@@ -10,7 +10,7 @@ spring:
       label: master
       server:
         git:
-          uri: https://github.com/jxustcmh/itoken.git
+          uri: https://github.com/jxustcmh/itoken/tree/master/itoken-config
           search-paths: itoken-config/repo
           username: jxustcmh
           password: cmh960808
